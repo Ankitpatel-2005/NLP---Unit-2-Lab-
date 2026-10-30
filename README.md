@@ -1,4 +1,4 @@
-# NLP-Unit-2-Lab-Program
+# NLP-Lab-Program
 Natural-Language-Processing-Lab/
 │
 ├── README.md
